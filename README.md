@@ -8,3 +8,4 @@ Then, you can run the script on any Linux system as follows:
 ```bash
 ./server-stats.sh
 ```
+https://roadmap.sh/projects/server-stats
